@@ -1,5 +1,5 @@
 gunicorn
-tensorflow-cpu==2.1.0
+tensorflow==2.1.0
 flask==1.1.1
 numpy==1.17.5
 h5py==2.10.0
